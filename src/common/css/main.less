@@ -1,0 +1,55 @@
+@import "./imest.less";
+
+body {
+    background-color: @background-color;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 50px;
+}
+
+#viewport {
+    position: relative;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 49px;
+    border-top: 1px solid #cecece;
+    z-index: 10000;
+    background-color: @v-white;
+    .clearfix();
+    line-height: 76px;
+    box-shadow: 0 4px 8px #aaa;
+    font-size: 14px;
+
+    a {
+        float: left;
+        width: 25%;
+        text-align: center;
+        color: #8c9297;
+
+        background: url(./img/footer_icon.png) center 0 no-repeat;
+
+        &.current {
+            color: #339cf5;
+        }
+    }
+
+    .v-baidu-tab {
+        background-position: center 4px;
+    }
+    .v-faxian-tab {
+        background-position: center -46px;
+    }
+    .v-me-tab {
+        background-position: center -96px;
+    }
+    .v-more-tab {
+        background-position: center -146px;
+    }
+}
+
+@import "../../index/css/main.less";

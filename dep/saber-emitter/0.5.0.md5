@@ -1,0 +1,9 @@
+{
+    "README.md": "3aafdcaf31cc143a95c995f57bc2e102",
+    "demo/basic.html": "ad1cbcef78621da14f1393c3dd2556cd",
+    "package.json": "277e5b8846896c1b4e952184de213a4f",
+    "src/emitter.js": "b2248fc108f3a540fdfd35c66bf42a22",
+    "test/emitter.spec.js": "e2e6f825d59e89019ea8231656c2bb58",
+    "test/run-jasmine.js": "7c0d964113df9f083f21291056e23f0a",
+    "test/runner.html": "450d277729dec449d14a942e7e277ae9"
+}

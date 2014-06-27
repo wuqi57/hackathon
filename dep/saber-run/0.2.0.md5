@@ -1,0 +1,17 @@
+{
+    "README.md": "ea1e94cfb1be121ca61e406eef733e09",
+    "demo/animation.css": "d624ea93a9dd948362974de8b0eac5b4",
+    "demo/animation.html": "11fe74c4223e517b5411c08811d6ec3a",
+    "demo/animation.js": "d5bbf85d3228c10f2aa683f0382255c0",
+    "package.json": "d79298d8e58f299218716b87cb79246f",
+    "src/Animation.js": "d53b53fafc2ce339c1494daa6944f3eb",
+    "src/main.js": "a2a63941e7bb43f79488bb8c52a5121e",
+    "src/transition.js": "bbdd66342c65689d56568cd317ab1b4a",
+    "src/util.js": "a9c7f70f113bad12e0da0c53d611c78e",
+    "test/animation.spec.js": "c702995894105e5a7a23be92ced6c9a5",
+    "test/consoleReporter.js": "9c4135df4a760924f3a7c495771b4a45",
+    "test/run-jasmine.js": "371a59e4703a5f60e59e63ef68a551ba",
+    "test/runner.html": "b4bcab4c4935d31a0f03b218e437e812",
+    "test/transition.spec.js": "e06d63ea97fb7f39ef1257598149c768",
+    "test/util.spec.js": "c70e0b41e4b7996a52840ecee209af90"
+}

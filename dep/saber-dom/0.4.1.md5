@@ -1,0 +1,17 @@
+{
+    "History.md": "fde1a0036c75fd29b072bd6d62894f6f",
+    "demo/basic.html": "f0ca1b3925240961377aa0e36ca48374",
+    "README.md": "6193ee570a849931b37e120995bccfaa",
+    "package.json": "d6f4e1d0389c558999cf16df696d25bb",
+    "src/css.js": "910322a1ee93279e9c1a5ec84acfb368",
+    "src/data.js": "77d59693e9e1e50b367a2ceb7a56eaec",
+    "src/main.js": "6440da57e9c1f1f7fbd932717e41f023",
+    "src/selector.js": "e640716e1605189fdd15546ced8e8ef6",
+    "src/traversal.js": "8cccbd9ca9c28250a43d9dcc35929377",
+    "test/css.spec.js": "d67f228f4eaccce613f52ebb1afa2518",
+    "test/data.spec.js": "9154a4ea01cb6707e98f4934bba47aa4",
+    "test/run-jasmine.js": "7c0d964113df9f083f21291056e23f0a",
+    "test/runner.html": "afa4b2bbbf64a3c2d972520d7ef2c215",
+    "test/selector.spec.js": "56ed0c3fed84b192c72b03a4e17fac8f",
+    "test/traversal.spec.js": "b72131d0a47f88e80bbd4a69f4879926"
+}

@@ -1,0 +1,8 @@
+{
+    "README.md": "cf6862f7b1a7b494daeaae3b7e22b479",
+    "package.json": "be189ce760974a6494b4760e23e3081b",
+    "src/promise.js": "52e6ec6e1c811a1f7d522ebd6b2e4ede",
+    "test/adapter.js": "f73441503e82c374274eaf12212e2061",
+    "test/exceptionSpec.js": "f5e3dc4fd8688620e34ff8e5172ebe0b",
+    "test/resolverSpec.js": "f2c840552d966fb9e982da7759681001"
+}

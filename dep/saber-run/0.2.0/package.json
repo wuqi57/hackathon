@@ -1,0 +1,26 @@
+{
+  "name": "saber-run",
+  "version": "0.2.0",
+  "description": "移动端动画效果支持",
+  "main": "main",
+  "maintainers": [
+    {
+      "name": "treelite",
+      "email": "c.xinle@gmail.com"
+    }
+  ],
+  "scripts": {
+    "test": "phantomjs test/run-jasmine.js test/runner.html"
+  },
+  "dependencies": {
+    "saber-promise": "~0.1.2",
+    "saber-lang": "~0.3.0",
+    "saber-dom": "~0.4.0"
+  },
+  "license": "BSD",
+  "repository": "git://github.com/ecomfe/saber-run.git",
+  "bugs": "https://github.com/ecomfe/saber-run/issues",
+  "devDependencies": {
+    "phantomjs": "~1.9"
+  }
+}
