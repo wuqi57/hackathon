@@ -1,0 +1,15 @@
+{
+    "status": 0,
+    "data": {
+        "title": "上门保洁",
+        "titleTip": "--就找<清美保洁>",
+        "despTitle": "北京清美上门保洁。",
+        "despTip": "一流的品质服务，安全放心，效率高!",
+        "type": 2,
+        "footer": "qingbeibaojie.com",
+        "footer_icon": "test/img/icon_tuiguang.png",
+        "urlTip": "进入M站",
+        "url": "xxxx",
+        "imgs": "test/img/list_house.jpg"
+    }
+}

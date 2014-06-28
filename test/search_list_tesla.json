@@ -1,0 +1,17 @@
+{
+    "status": 0,
+    "data": {
+        "title": "Tesla(特斯拉)",
+        "titleTip": "|高级电动车",
+        "icon" : "test/img/icon_tesla.jpg",
+        "despTitle": "官方公众号",
+        "despTip": "65万人关注",
+        "type": 1,
+        "footer": "百度公众号",
+        "footer_icon": "test/img/icon_v.gif",
+        "urlTip": "关注",
+        "url": "#/talk/tesla",
+        "detailUrl": "#/talk/detail/tesla",
+        "imgs": "test/img/list_testla.jpg"
+    }
+}

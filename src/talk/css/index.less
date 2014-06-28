@@ -1,0 +1,198 @@
+@import "../../common/css/imest.less";
+
+.talk-box {
+    width: 96%;
+    margin: 0 auto;
+    padding-top: 60px;
+    .clearfix();
+}
+.talk-list-item {
+    .clearfix();
+    margin-bottom: 10px;
+}
+.talk-list-time {
+    height: 24px;
+    text-align: center;
+    margin-bottom: 10px
+}
+.talk-list-time-ctx {
+    .inline-block();
+    height: 24px;
+    line-height: 24px;
+    font-size: 12px;
+    color: #4b4b4b;
+    background-color: #cdcdcd;
+    padding: 0 10px;
+}
+.talk-icon-left {
+    float: left;
+    border-radius: 3px;
+    overflow: hidden;
+    margin-right: 15px;
+    height: 40px;
+}
+
+.talk-detail-right {
+    width: 65%;
+    float: left;
+    position: relative;
+    background-color: #fff;
+}
+.talk-detail-ctx {
+    padding: 10px;
+    line-height: 24px;
+    font-size: 14px;
+    color: #4b4b4b;
+    word-wrap: break-word;
+    border: 1px solid #ededed;
+}
+.talk-type-left .talk-trangle-border {
+    width: 0;
+    height: 0;
+    font-size: 0;
+    border: 5px solid #ededed;
+    position: absolute;
+    left: -10px;
+    top: 10px;
+    border-color: transparent #ededed transparent transparent;
+    z-index: 2;
+}
+.talk-type-left .talk-trangle-content {
+    width: 0;
+    height: 0;
+    font-size: 0;
+    border: 5px solid #fff;
+    position: absolute;
+    left: -9px;
+    top: 10px;
+    z-index: 5;
+    border-color: transparent #fff transparent transparent;
+}
+.talk-icon-right {
+    float: right;
+    border-radius: 3px;
+    overflow: hidden;
+    margin-left: 15px;
+    height: 40px;
+}
+.talk-detail-left {
+    float: right;
+    width: 65%;
+    position: relative;
+    background-color: #fff;
+}
+.talk-type-right .talk-trangle-border {
+    width: 0;
+    height: 0;
+    font-size: 0;
+    border: 5px solid #ededed;
+    position: absolute;
+    right: -10px;
+    top: 10px;
+    border-color: transparent transparent transparent #ededed;
+    z-index: 2;
+}
+.talk-type-right .talk-trangle-content {
+    width: 0;
+    height: 0;
+    font-size: 0;
+    border: 5px solid #fff;
+    position: absolute;
+    right: -9px;
+    top: 10px;
+    z-index: 5;
+    border-color: transparent transparent transparent #fff;
+}
+.talk-list-info {
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ededed;
+    display: block;
+    color: #4b4b4b;
+
+    img {
+        margin-bottom: 10px;
+    }
+}
+.talk-list-title {
+    font-size: 16px;
+    line-height: 24px;
+}
+.talk-list-desp {
+    font-size: 14px;
+    color: #969696;
+    word-warp: break-word;
+    line-height: 24px;
+    border-bottom: 1px solid #ededed;
+    padding-bottom: 8px;
+    margin-bottom: 10px;
+}
+.talk-list-more {
+    font-size: 12px;
+    .clearfix();
+    color: #969696;
+    line-height: 24px;
+}
+.talk-list-more-time {
+    float: left;
+}
+.talk-list-more-to {
+    float: right;
+}
+
+.talk-list-detail {
+    margin: 0;
+    padding: 0;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ededed;
+}
+.talk-list-detail-item {
+    list-style: none;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ededed;
+    margin-bottom: 10px;
+
+    &:last-child {
+        border-bottom: 0;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+}
+.talk-list-detail-link {
+    display: block;
+    position: relative;
+    color: #4b4b4b;
+    line-height: 24px;
+}
+.talk-list-detail-title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    min-height: 34px;
+}
+.talk-list-detail-mask {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #000;
+    opacity: 0.6;
+    z-index: 2;
+}
+.talk-list-detail-ctx {
+    line-height: 24px;
+    padding: 5px;
+    color: #fff;
+    font-size: 14px;
+    position: relative;
+    z-index: 5;
+    word-wrap: break-word;
+}
+.talk-list-detail-img {
+    float: left;
+    margin-right: 10px;
+    word-wrap: break-word;
+}
